@@ -1,0 +1,17 @@
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\xunit.abstractions.dll
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\Lab17.exe.config
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\Lab17.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\Lab17.pdb
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\xunit.assert.dll
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\xunit.core.dll
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\xunit.assert.xml
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\xunit.core.xml
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\obj\Debug\Lab17.csproj.CopyComplete
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\obj\Debug\Lab17.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Week4\Lab17\Lab17\obj\Debug\Lab17.pdb
